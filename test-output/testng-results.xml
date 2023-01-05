@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-05T12:25:05 IST" name="Default suite" finished-at="2023-01-05T12:25:08 IST" duration-ms="3079">
+    <groups>
+    </groups>
+    <test started-at="2023-01-05T12:25:05 IST" name="Default test" finished-at="2023-01-05T12:25:08 IST" duration-ms="3079">
+      <class name="com.bridgelabz.qa.api.Json_Server_API_Automation_Test">
+        <test-method signature="Update_Post()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:05 IST" name="Update_Post" finished-at="2023-01-05T12:25:08 IST" duration-ms="2365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_Post -->
+        <test-method signature="create_Command()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="create_Command" finished-at="2023-01-05T12:25:08 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Command -->
+        <test-method signature="create_Post()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="create_Post" finished-at="2023-01-05T12:25:08 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_Post -->
+        <test-method signature="delete_Command()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="delete_Command" finished-at="2023-01-05T12:25:08 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_Command -->
+        <test-method signature="delete_Post()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="delete_Post" finished-at="2023-01-05T12:25:08 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_Post -->
+        <test-method signature="fecth_The_All_Command_In_One_Post()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="fecth_The_All_Command_In_One_Post" finished-at="2023-01-05T12:25:08 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fecth_The_All_Command_In_One_Post -->
+        <test-method signature="get_Command()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="get_Command" finished-at="2023-01-05T12:25:08 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Command -->
+        <test-method signature="get_Post()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="get_Post" finished-at="2023-01-05T12:25:08 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Post -->
+        <test-method signature="get_Profile()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="get_Profile" finished-at="2023-01-05T12:25:08 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Profile -->
+        <test-method signature="get_Spicific_Command()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="get_Spicific_Command" finished-at="2023-01-05T12:25:08 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Spicific_Command -->
+        <test-method signature="get_Spicific_Post()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="get_Spicific_Post" finished-at="2023-01-05T12:25:08 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_Spicific_Post -->
+        <test-method signature="update_Command()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="update_Command" finished-at="2023-01-05T12:25:08 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_Command -->
+        <test-method signature="update_Commands()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="update_Commands" finished-at="2023-01-05T12:25:08 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_Commands -->
+        <test-method signature="update_Posts()[pri:0, instance:com.bridgelabz.qa.api.Json_Server_API_Automation_Test@7671cb68]" started-at="2023-01-05T12:25:08 IST" name="update_Posts" finished-at="2023-01-05T12:25:08 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_Posts -->
+      </class> <!-- com.bridgelabz.qa.api.Json_Server_API_Automation_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
