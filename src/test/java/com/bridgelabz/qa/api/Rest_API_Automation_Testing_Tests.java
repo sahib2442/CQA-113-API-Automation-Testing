@@ -252,9 +252,9 @@ public class Rest_API_Automation_Testing_Tests {
 							+ "    ]\r\n"
 							+ "}}")
 					.when()
-					.post("https://api.spotify.com/v1/playlists/"+playlistid+"/tracks");
+					.delete("https://api.spotify.com/v1/playlists/"+playlistid+"/tracks");
 			response.prettyPrint();
-			response.then().assertThat().statusCode(400);
+			response.then().assertThat().statusCode(200);
 			playlistid = response.path("id");
 			System.out.printf("CQA-113 sahib is:"+ playlistid);
 			
